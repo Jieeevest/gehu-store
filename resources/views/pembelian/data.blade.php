@@ -11,7 +11,7 @@
     <div class="container py-5">
         <div class="row">
             <div class="col-10">
-                <h1>Data <?php echo $judul; ?> Barang</h1>
+                <h1>Data <?php echo $judul; ?></h1>
             </div>
             <div class="col-2">
                 <button class="btn btn-success">
